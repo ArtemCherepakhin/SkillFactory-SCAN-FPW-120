@@ -7,9 +7,9 @@
 Использование Redux Toolkit – это рекомендуемый способ работы с Redux, так как он предоставляет множество удобных инструментов для более компактного и эффективного кода.
 Redux Toolkit включает в себя библиотеку @reduxjs/toolkit, которая предоставляет удобные функции для создания срезов состояния (slices), управления экшенами и редьюсерами, а также автоматическую обработку неизменяемости состояния.
 
-npm install @reduxjs/toolkit
-Для Api необходим axios: npm install axios
-npm install react-router-dom
-Установка карусели для слайдера: npm install react-multi-carousel
+-npm install @reduxjs/toolkit
+-Для Api необходим axios: npm install axios
+-npm install react-router-dom
+-Установка карусели для слайдера: npm install react-multi-carousel
 
 
